@@ -2,7 +2,7 @@
 <html lang="en">
 <body>
 
-<h1>Prepinsta Internship Repository</h1>
+<h1>Prepinsta Internship </h1>
 
 <p>Welcome to the Prepinsta Internship repository! This repository contains the solutions and analyses completed during the internship program. Each week focuses on different data analysis tasks and problem statements, using various tools and techniques.</p>
 
